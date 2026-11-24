@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "",
-  "notesKu": "وەشانی تەواوی سیستەم",
-  "notesAr": "الإصدار  للنظام",
-  "notesEn": "Initial system release",
+  "downloadUrl": "https://github.com/dawdsabah97-del/company-erp-updates/releases/download/v1.0.1/CompanyErp_Update.zip",
+  "notesKu": "نوێکردنەوەی سیستەم",
+  "notesAr": "تحديث النظام",
+  "notesEn": "System update",
   "isMandatory": false
 }
