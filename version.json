@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/dawdsabah97-del/company-erp-updates/releases/download/v1.0.3/CompanyErp_Update.zip",
-  "notesKu": "تاقیکردنەوەی نوێکردنەوەی خۆکار بۆ وەشانی 1.0.3",
-  "notesAr": "اختبار التحديث التلقائي للإصدار 1.0.3",
-  "notesEn": "Testing auto-update to version 1.0.3",
-  "isMandatory": false
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/dawdsabah97-del/company-erp-updates/releases/download/v1.0.4/CompanyErp_Update.zip",
+  "notesKu": "• زیادکردنی نرخی دۆلاری گشتی لە ڕێکخستنەکان\n• زیادکردنی ڕاپۆرتی ١٥ (مەواد بەپێی کەس) و چاککردنی پیشاندانی خشتەکان\n• گەڕانی خێرا بە کۆد (SKU) و ناو ڕاستەوخۆ لەناو ڕیزی پسوولەکان و زیادبوونی خۆکاری ڕیز",
+  "notesAr": "• إضافة سعر صرف الدولار العام في الإعدادات\n• إضافة التقرير ١٥ (المواد حسب الأشخاص) وتحسين عرض الجداول\n• البحث السريع بالكود والاسم داخل سطور الفواتير مع الإضافة التلقائية للسطور",
+  "notesEn": "• Added global USD exchange rate in Settings\n• Added Report 15 (Items by Party) and fixed table layout clipping\n• Added inline row search by SKU & Name with automatic row addition",
+  "isMandatory": true
 }
