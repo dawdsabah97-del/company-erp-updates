@@ -1,8 +1,8 @@
 {
   "version": "1.0.7",
-  "downloadUrl": "https://github.com/dawdsabah97-del/company-erp-updates/releases/download/v1.0.6/CompanyErp_Update.zip",
-  "notesKu": "• زیادکردنی نرخی دۆلاری گشتی لە ڕێکخستنەکان\n• زیادکردنی ڕاپۆرتی ١٥ (مەواد بەپێی کەس) و چاککردنی پیشاندانی خشتەکان\n• گەڕانی خێرا بە کۆد (SKU) و ناو لەناو ڕیزی پسوولەکان و لابردنی SKU لە چاپی فرۆشتن",
-  "notesAr": "• إضافة سعر صرف الدولار العام في الإعدادات\n• إضافة التقرير ١٥ (المواد حسب الأشخاص) وتحسين عرض الجداول\n• البحث السريع بالكود والاسم داخل سطور الفواتير وإخفاء الكود عند طباعة المبيعات",
-  "notesEn": "• Added global USD exchange rate in Settings\n• Added Report 15 (Items by Party) and fixed table layout clipping\n• Added inline row search by SKU & Name and removed SKU from sales print",
+  "downloadUrl": "https://github.com/dawdsabah97-del/company-erp-updates/releases/download/v1.0.7/CompanyErp_Update.zip",
+  "notesKu": "• بەستنەوەی نرخی دۆلاری گشتی بە بەشی ڕێکخستنەکان و بڕی سەرەتایی کۆگا\n• زیادکردنی ڕاپۆرتی ١٥ (مەواد بەپێی کەس) و چارەسەری بڕانی خشتەکان\n• گەڕانی ڕاستەوخۆ بە کۆد (SKU) و ناو لەناو ڕیزی پسوولەکان و زیادبوونی خۆکاری ڕیز\n• دیاریکردنی جۆری دراو لەسەر ناونیشانی پسوولە و لابردنی SKU لە کاتی پرینت\n• سنووردارکردنی نرخی فرۆشیار تەنها لەسەر نرخی تاک لە فرۆشتن، گەڕاوە و کۆگا",
+  "notesAr": "• ربط سعر صرف الدولار العام بقسم الإعدادات والرصيد الافتتاحي للمخزن\n• إضافة التقرير ١٥ (المواد حسب الأشخاص) ومعالجة تقطيع الجداول\n• البحث المباشر بالكود (SKU) والاسم داخل سطور الفواتير والإضافة التلقائية للسطور\n• إظهار نوع العملة في عنوان الفاتورة وإخفاء كود SKU عند الطباعة\n• تخصيص عرض الأسعار للمندوب/البائع على سعر المفرد فقط في المبيعات والمرتجعات والمخزن",
+  "notesEn": "• Linked global USD exchange rate to Settings and opening stock valuation\n• Added Report 15 (Items by Party) and fixed table layout clipping\n• Inline row search by SKU & Name with automatic new row addition\n• Added currency title on invoices and removed SKU column from print layout\n• Restricted seller accounts to Retail pricing only across Sales, Returns, and Inventory",
   "isMandatory": true
 }
